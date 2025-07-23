@@ -1,4 +1,3 @@
-vi StudentDetails.java
 public class StudentDetails {
 public static void main(String[] args) {
 String name = "Name";
